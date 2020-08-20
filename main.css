@@ -1,0 +1,67 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+body {
+    background-color: #C0C0C0; 
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+#logo {
+    
+    background: none;
+    position:static;
+    top: 0px;
+    width: 125px;   
+}
+.acceuil{
+    text-decoration: none;
+    color: white;
+  
+
+
+}
+
+.flotte{
+    float: left;
+    margin-top : 0px;
+}
+
+.title{
+    text-align: center;
+    position: relative; 
+    font-size: 100%;
+    border-bottom : 1px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1{
+    text-align: center;
+}
+.content {
+    border: 1.5px dotted black;
+    position: relative;
+    margin-top: 1% ;
+    margin-bottom: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1% ; 
+}
+.footer {
+    position: static;
+    font-size: 20px;
+    text-align: center;
+    border-top : 1px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 1%;
+}
+#icon{
+    width: 30px; 
+    height: 30px;
+}
+#copyright{
+    font-size: 15px;
+}
